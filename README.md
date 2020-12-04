@@ -6,7 +6,6 @@
 
 ### Algumas coisa sobre mim:
 
-- 🔭 Atualmente estou trabalhando como programador na empresa [Siga Cred Administradora.](https://www.sigacred.com.br/)
 - 🌱 Eu estou sempre estudando novas tecnologias eu tenho isso como um passatempo.
 
 
